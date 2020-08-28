@@ -9,7 +9,7 @@ import pandas as pd
 from datetime import date
 
 #to get the current working directory
-print("Your current working directory is ", os.getcwd())
+#print("Your current working directory is ", os.getcwd())
 
 
 #Enter the subject name
